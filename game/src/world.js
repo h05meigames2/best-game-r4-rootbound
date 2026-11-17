@@ -1,4 +1,4 @@
-// ROOTBOUND — the underground world: layers, rocks, water, dew, nutrients, grubs.
+// DEEPROOT — the underground world: layers, rocks, water, dew, nutrients, grubs.
 // One job: generate the soil deterministically from a seed and answer spatial queries.
 
 import { LAYERS, WORLD_W, WORLD_DEPTH_PX, SEED_X } from './config.js';

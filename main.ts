@@ -1,4 +1,4 @@
-// ROOTBOUND — the entry program (Node 22, standard library only).
+// DEEPROOT — the entry program (Node 22, standard library only).
 //
 // What it does: it hands the game in. It copies this repository's game/
 // (the playable static files) and screenshots/ (the four staged renders)
@@ -57,4 +57,4 @@ cpSync(shotsDir, join(outDir, 'screenshots'), { recursive: true });
 const dossier = buildDossier(outDir, dossierCaps);
 writeFileSync(join(outDir, 'dossier.json'), dossier);
 
-console.log(`ROOTBOUND handed in: ${shots.length} screenshots, dossier ${dossier.length} bytes -> ${outDir}`);
+console.log(`DEEPROOT handed in: ${shots.length} screenshots, dossier ${dossier.length} bytes -> ${outDir}`);

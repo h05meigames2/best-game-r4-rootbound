@@ -1,4 +1,4 @@
-// ROOTBOUND — the root system: tips, growth, branching, grub damage.
+// DEEPROOT — the root system: tips, growth, branching, grub damage.
 // One job: own every root's points and let the game grow, split and prune them.
 
 import { SEED_X, SEED_Y } from './config.js';

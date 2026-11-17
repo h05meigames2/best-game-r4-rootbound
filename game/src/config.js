@@ -1,4 +1,4 @@
-// ROOTBOUND — configuration: every tunable number of the game lives here.
+// DEEPROOT — configuration: every tunable number of the game lives here.
 // One job: constants, the five soil layers, the six boons, the palette.
 
 export const VIEW_W = 1280;

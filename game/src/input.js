@@ -1,4 +1,4 @@
-// ROOTBOUND — keyboard and pointer input.
+// DEEPROOT — keyboard and pointer input.
 // One job: track the pointer, held keys and clicks, and translate screen to world coords.
 
 export function createInput(canvas, hooks) {

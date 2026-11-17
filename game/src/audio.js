@@ -1,4 +1,4 @@
-// ROOTBOUND — synthesized sound, no audio assets.
+// DEEPROOT — synthesized sound, no audio assets.
 // One job: every sound the game makes, built from WebAudio oscillators, plus mute.
 
 export function createAudio() {

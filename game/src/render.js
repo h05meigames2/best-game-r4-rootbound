@@ -1,4 +1,4 @@
-// ROOTBOUND — everything the player sees, drawn on one canvas.
+// DEEPROOT — everything the player sees, drawn on one canvas.
 // One job: paint the soil, the roots, the creatures, the HUD and every menu.
 
 import {
@@ -363,7 +363,7 @@ function panel(ctx, x, y, w, h) {
 function drawTitle(ctx, g) {
   dim(ctx);
   panel(ctx, 290, 92, 700, 536);
-  text(ctx, 'R O O T B O U N D', 640, 168, 54, PALETTE.accent, 'center', 900);
+  text(ctx, 'D E E P R O O T', 640, 168, 54, PALETTE.accent, 'center', 900);
   text(ctx, 'Grow the last seed to the Deep Spring', 640, 212, 20, PALETTE.text, 'center', 600);
   const lines = [
     ['HOLD MOUSE', '— the glowing tip grows toward your cursor. Water is fuel.'],

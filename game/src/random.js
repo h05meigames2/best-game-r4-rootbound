@@ -1,4 +1,4 @@
-// ROOTBOUND — deterministic random numbers (mulberry32).
+// DEEPROOT — deterministic random numbers (mulberry32).
 // One job: a seedable RNG so world generation and screenshot staging repeat exactly.
 
 export function mulberry32(seed) {

@@ -1,4 +1,4 @@
-// ROOTBOUND — bootstrap: canvas, input, game loop, screenshot staging.
+// DEEPROOT — bootstrap: canvas, input, game loop, screenshot staging.
 // One job: wire the modules together and run requestAnimationFrame.
 
 import { VIEW_W, VIEW_H } from './config.js';
@@ -20,7 +20,7 @@ const input = createInput(canvas, {
 const game = createGame(canvas, input);
 
 // Expose the game for debugging and for the screenshot/autopilot harness.
-window.__rootbound = game;
+window.__deeproot = game;
 
 if (shot === 'boon') {
   stageBoon(game);

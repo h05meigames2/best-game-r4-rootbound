@@ -1,4 +1,4 @@
-// ROOTBOUND — deterministic screenshot staging via ?shot=.
+// DEEPROOT — deterministic screenshot staging via ?shot=.
 // One job: build a fixed, readable scene for each of the four screenshots.
 // The game is frozen afterwards: no simulation, no input, just the staged frame.
 

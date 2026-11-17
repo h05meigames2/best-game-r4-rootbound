@@ -1,4 +1,4 @@
-// ROOTBOUND — local static server for play-testing (development only).
+// DEEPROOT — local static server for play-testing (development only).
 // Serves game/ at http://localhost:8080, exactly as a static file server
 // would; the game makes no network requests of its own.
 
@@ -31,4 +31,4 @@ const server = createServer((req, res) => {
 });
 
 const port = Number(process.env.PORT ?? 8080);
-server.listen(port, () => console.log(`ROOTBOUND at http://localhost:${port}`));
+server.listen(port, () => console.log(`DEEPROOT at http://localhost:${port}`));

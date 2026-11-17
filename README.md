@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/best-game-01/h05meigames2/best-game-r4-rootbound/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 [![reward](https://make.fun/badge/best-game-01/h05meigames2/best-game-r4-rootbound/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
-**ROOTBOUND** — grow the last seed to the Deep Spring. You are the taproot
+**DEEPROOT** — grow the last seed to the Deep Spring. You are the taproot
 of the last seed on a drying earth. Hold the mouse and the glowing tip
 grows toward your cursor, drinking water to stay alive, steering around
 rocks, while grubs crawl up your roots and eat them — click a grub to

@@ -1,4 +1,4 @@
-// ROOTBOUND — the game itself: state machine, growth, pickups, grubs, boons, win/loss.
+// DEEPROOT — the game itself: state machine, growth, pickups, grubs, boons, win/loss.
 // One job: turn input + world + roots into a complete, winnable game.
 
 import {
